@@ -21,3 +21,4 @@ samples, guidance on mobile development, and a full API reference.
 # Scanner_Realtime
 # Realtime-scanner
 # OCR
+# OCR
