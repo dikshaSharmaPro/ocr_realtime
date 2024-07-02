@@ -19,3 +19,4 @@ samples, guidance on mobile development, and a full API reference.
 # Realtime_scanner
 # Scanner_Realtime
 # Scanner_Realtime
+# Realtime-scanner
